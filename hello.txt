@@ -1,1 +1,2 @@
 Merged version: combining main and conflict-branch
+This is a new line I am adding
